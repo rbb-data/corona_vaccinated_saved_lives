@@ -1,4 +1,4 @@
-# 2021-01 Vacciines to saved lives calculation
+# 2021-01 Vaccines to saved lives calculation
 1. This script allows to estimate the number of lives saved due to the ongoing vaccination efforts in Germany
 
 2. So viele Leben haben die Impfungen wohl schon gerettet
